@@ -9,7 +9,7 @@ authors = [
 ]
 dependencies = ["danielutils"]
 keywords = ['C#', 'dontnet', 'Windows Froms', 'classes']
-license = { "file" = "LISENCE" }
+license = { "file" = "LICENSE" }
 description = "A python library to create Windows Forms applications"
 readme = "README.md"
 requires-python = ">=3.11.3"

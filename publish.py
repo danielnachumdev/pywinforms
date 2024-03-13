@@ -180,4 +180,3 @@ if __name__ == "__main__":
             print("DONE")
         else:
             print("invalid version. example 1.0.5.20")
-__all__: list = []

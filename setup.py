@@ -23,7 +23,6 @@ setup(
     license="MIT License",
     packages=find_packages(
         exclude=["*.tests", "*.tests.*", "tests.*", "tests", "archive/"]),
-    install_requires=["danielutils"],
     platforms=["All"],
     keywords=['C#', 'dontnet', 'Windows Froms', 'classes'],
     classifiers=[
